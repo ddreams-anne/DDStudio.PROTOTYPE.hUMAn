@@ -87,4 +87,4 @@ crashlytics-build.properties
 # UMA 2 Unity package
 # ------------------------------------------------------------------------------
 
-/[Aa]ssets//UMA/Examples/
+/[Aa]ssets/UMA/Examples/
